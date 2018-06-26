@@ -1,0 +1,5 @@
+<view class="wrapper">
+  <text>{{mins}}</text>
+  <text>:</text>
+  <text>{{secs}}</text>
+</view>

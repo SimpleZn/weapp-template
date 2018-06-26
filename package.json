@@ -1,0 +1,17 @@
+{
+  "name": "weapp",
+  "version": "1.0.0",
+  "description": "weapp template",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "SimpleZn",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^3.6.1",
+    "wafer2-client-sdk": "^1.1.1"
+  }
+}
